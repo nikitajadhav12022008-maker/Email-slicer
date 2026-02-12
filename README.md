@@ -5,23 +5,23 @@ This mini project extracts the username and domain from an email address entered
 ----------
 
 ##🚀 Features:
-Takes email input from user
-Separates username and domain
-Displays extracted information clearly
-Simple CLI interaction
+~Takes email input from user
+~Separates username and domain
+~Displays extracted information clearly
+~Simple CLI interaction
 
 -----------
 
 ##🛠 Technologies Used:
-Python 3
+~Python 3
 
 ----------
 
 ##🧠 Concepts Used:
-Strings
-split() method
-User input
-Basic string manipulation
+~Strings
+~split() method
+~User input
+~Basic string manipulation
 
 -----------
 
@@ -31,6 +31,14 @@ Clone the repository or download the file
 Run the program:
 ```bash
 python email_slicer.py
+
+-----------
+
+📁Project structure:
+The email slicer/
+|
+|_________email_slicer.py
+|_________README.md
 
 ----------
 
@@ -42,10 +50,10 @@ Domain: gmail.com
 -----------
 
 ##🔮 Future Improvements:
-Validate email format
-Extract domain name only (without .com)
-Handle invalid input errors
-Convert into GUI application
+~Validate email format
+~Extract domain name only (without .com)
+~Handle invalid input errors
+~Convert into GUI application
 
 -------------
 
