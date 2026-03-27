@@ -1,7 +1,9 @@
-##✂️ Email Slicer (Python):
+## ✂️ Email Slicer (Python):
+
 A simple command-line Email Slicer application built using Python.
 This mini project extracts the username and domain from an email address entered by the user.
-------
+
+---
 
 ##🚀 Features:
 -Takes email input from user
