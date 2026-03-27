@@ -5,12 +5,14 @@ This mini project extracts the username and domain from an email address entered
 
 ---
 
-##🚀 Features:
--Takes email input from user
--Separates username and domain
--Displays extracted information clearly
--Simple CLI interaction
-------
+## 🚀 Features:
+
+- Takes email input from user
+- Separates username and domain
+- Displays extracted information clearly
+- Simple CLI interaction
+
+---
 
 ##🛠 Technologies Used:
 -Python 3
