@@ -14,8 +14,10 @@ This mini project extracts the username and domain from an email address entered
 
 ---
 
-##🛠 Technologies Used:
--Python 3
+## 🛠 Technologies Used:
+
+- Python 3
+
 ------
 
 ##🧠 Concepts Used:
