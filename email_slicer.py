@@ -1,4 +1,4 @@
-#python based email slicer
+# Python based email slicer
 #input email
 email = input("enter email:")
 #splitting
