@@ -45,6 +45,17 @@ Domain: gmail.com
 
 ---
 
+
+
+## 🔮 Future Improvements:
+
+- Validate email format
+- Extract domain name only (without .com)
+- Handle invalid input errors
+- Convert into GUI application
+
+---
+
 ## ▶️ How to Run:
 
 - Make sure Python is installed on your system
@@ -56,15 +67,6 @@ python email_slicer.py
 ---
 
 
-
-## 🔮 Future Improvements:
-
-- Validate email format
-- Extract domain name only (without .com)
-- Handle invalid input errors
-- Convert into GUI application
-
----
 
 ## 🙋‍♀️ Author:
 
