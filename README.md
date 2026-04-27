@@ -37,6 +37,14 @@ This mini project extracts the username and domain from an email address entered
 
 ---
 
+## 📌 Sample Output:
+
+Enter your email: nikita@gmail.com
+Username: nikita
+Domain: gmail.com
+
+---
+
 ## ▶️ How to Run:
 
 - Make sure Python is installed on your system
@@ -47,13 +55,7 @@ python email_slicer.py
 
 ---
 
-## 📌 Sample Output:
 
-Enter your email: nikita@gmail.com
-Username: nikita
-Domain: gmail.com
-
----
 
 ## 🔮 Future Improvements:
 
